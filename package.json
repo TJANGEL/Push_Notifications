@@ -1,0 +1,24 @@
+{
+  "name": "push_notifications",
+  "version": "1.0.0",
+  "description": "Push notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJANGEL/Push_Notifications.git"
+  },
+  "author": "Tom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJANGEL/Push_Notifications/issues"
+  },
+  "homepage": "https://github.com/TJANGEL/Push_Notifications#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
