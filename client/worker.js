@@ -6,6 +6,6 @@ self.addEventListener("push", e => {
 
   self.registration.showNotification(data.title, {
     body: "Notified by TommyTom",
-    icon: "http://image.ibb.co/frYOFd/tmlogo.png"
+    icon: ""
   });
 });
